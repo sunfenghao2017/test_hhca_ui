@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7a774c87b3a9c6843bcb",
+    "revision": "17b92d0b86c88a1df0bd",
     "url": "/test_hhca_ui/static/css/main.a91ef0f7.chunk.css"
   },
   {
-    "revision": "7a774c87b3a9c6843bcb",
-    "url": "/test_hhca_ui/static/js/main.7a774c87.chunk.js"
+    "revision": "17b92d0b86c88a1df0bd",
+    "url": "/test_hhca_ui/static/js/main.17b92d0b.chunk.js"
   },
   {
     "revision": "841ab2683a6dba311306",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/test_hhca_ui/static/media/41586_2018_590_Fig2_HTML.d4ecd83e.png"
   },
   {
-    "revision": "35fa4c8c5197cae8846afb098349d28d",
+    "revision": "7a5f825eac22b7571a22eb146bc8c352",
     "url": "/test_hhca_ui/index.html"
   }
 ];
