@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "17b92d0b86c88a1df0bd",
+    "revision": "af9fc0385182a3ea0a36",
     "url": "/test_hhca_ui/static/css/main.a91ef0f7.chunk.css"
   },
   {
-    "revision": "17b92d0b86c88a1df0bd",
-    "url": "/test_hhca_ui/static/js/main.17b92d0b.chunk.js"
+    "revision": "af9fc0385182a3ea0a36",
+    "url": "/test_hhca_ui/static/js/main.af9fc038.chunk.js"
   },
   {
     "revision": "841ab2683a6dba311306",
     "url": "/test_hhca_ui/static/js/runtime~main.841ab268.js"
   },
   {
-    "revision": "2b693f5f0d6ba6a01a42",
+    "revision": "c9f12e4647bd9ea84bf6",
     "url": "/test_hhca_ui/static/css/2.d7f7fc61.chunk.css"
   },
   {
-    "revision": "2b693f5f0d6ba6a01a42",
-    "url": "/test_hhca_ui/static/js/2.2b693f5f.chunk.js"
+    "revision": "c9f12e4647bd9ea84bf6",
+    "url": "/test_hhca_ui/static/js/2.c9f12e46.chunk.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/test_hhca_ui/static/media/41586_2018_590_Fig2_HTML.d4ecd83e.png"
   },
   {
-    "revision": "7a5f825eac22b7571a22eb146bc8c352",
+    "revision": "f280cf8274b7d8f8c014c56a864a7c89",
     "url": "/test_hhca_ui/index.html"
   }
 ];
